@@ -20,7 +20,7 @@ This repository showcases projects and contributions that reflect my journey as 
 
 ### Highlights:
 - Founded a startup which build financial applications and custom nepali softwares(https://waterflow.technology).
-- Actively interacting with youths in Nepal, learn from them and learn in the process when I try yo teach them acquire new skills.
+- Actively interacting with youths in Nepal, learn from them and learn in the process when I try to teach them acquire new skills.
 - Few projects are there which reminds me to pat myself on the back 
 
 Feel free to explore, contribute, or reach out if my work resonates with you!
